@@ -1,0 +1,26 @@
+a  {
+    color: #000000;
+  }
+
+ li a  {
+    color: rgb(16, 17, 16);
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a {
+    background-color: #ffffff;
+  }
+
+  a{
+    border: 2px solid green;
+
+  }
+
+
+  a:hover, a:active {
+    background-color: green;
+    color: white;
+  }
